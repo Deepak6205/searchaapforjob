@@ -12,9 +12,9 @@ Build job search portal using Spring Boot and H2 Database
 ## 🚀 About Me
 I'm a full stack developer...
 
-https://github.com/Deepakkr3
+https://github.com/Deepak6205
 
-deepakbaitha7905@gmail.com
+deepak7292832956@gmail.com
 ## API Reference
 
 #### GetMapping
@@ -45,3 +45,4 @@ deepakbaitha7905@gmail.com
 | :-------- | :------- | :-------------------------------- |
 | `id`      | `string` | **Required**. to get job by job location  |
 
+# jobsearchaap
